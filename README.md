@@ -11,7 +11,7 @@
 
 💻 My primary code editor is [Visual Studio Code](https://code.visualstudio.com/), followed by [Replit](https://replit.com/) (which is technically an IDE).
 
-🐱‍💻 I use GitHub for collaborating with my team or storing essential backups of my code.
+👨‍💻 I use GitHub for collaborating with my team or storing essential backups of my code.
 
 <!---
 MrWinterz98/MrWinterz98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
