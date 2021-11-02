@@ -3,7 +3,7 @@
 
 🎈 I'm interested in coding for primarily Python.
 
-🐍 I'm currently learning Python, Java and SQL.
+🐍 I'm currently learning Python, somewhat HTML & CSS and Ruby.
 
 🤝 I'm looking to collaborate on Github and Discord.
 
