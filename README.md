@@ -9,7 +9,7 @@
 
 📮 Reach me through my socials and find my carrd [here](https://winter78.carrd.co/).
 
-💻 My primary code editor is [Visual Studio Code](https://code.visualstudio.com/), followed by [Replit](https://replit.com/) (which is technically an IDE).
+💻 My primary code editor is [Visual Studio Code](https://code.visualstudio.com/), followed by [Vim](https://vim.org).
 
 👨‍💻 I use GitHub for collaborating with my team or storing essential backups of my code.
 
